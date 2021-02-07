@@ -21,5 +21,9 @@
 # Experience
 
 - **Programming Languages:** *C/Python*
-- **Operating Systems:** *Linux/Windows*
+- **Operating Systems:**
+  - Ubuntu
+  - Kali Linux
+  - Debian
+  - Windows
 - **Tools:** *WSL2/Vim/Git/Bash-Shell*
