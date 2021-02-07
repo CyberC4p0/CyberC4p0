@@ -22,4 +22,4 @@
 
 - **Programming Languages:** *C/Python*
 - **Operating Systems:** *Linux/Windows*
-- **Tools:** *WSL2/Vim/Git*
+- **Tools:** *WSL2/Vim/Git/Bash-Shell*
