@@ -31,7 +31,7 @@
   - Debian
   - Windows
 - **Tools:**
-  - *WSL2*
-  - *Vim*
-  - *Git*
-  - *Bash-Shell*
+  - WSL2
+  - Vim
+  - Git
+  - Bash-Shell
