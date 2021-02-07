@@ -33,5 +33,5 @@
 - **Tools:**
   - WSL2
   - Vim
-  - Git
+  - Git & Version Control
   - Bash-Shell
