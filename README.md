@@ -20,7 +20,9 @@
 
 # Experience
 
-- **Programming Languages:** *C/Python*
+- **Programming Languages:**
+  - *C*
+  - *Python*
 - **Operating Systems:**
   - Ubuntu
   - Kali Linux
