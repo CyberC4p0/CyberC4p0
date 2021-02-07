@@ -2,9 +2,11 @@
 
 - **Age:** 16 years old
 - **Favorite Hobby:** Programming
-- **Music While Coding:** https://coderadio.freecodecamp.org/
-- **Favorite Artist:** Lorde :)
 - **Favorite Programming Language:** *C*
+- **Music While Coding:** https://coderadio.freecodecamp.org/
+- **Favorite Artist:** Lorde
+- **Favorite Song:** Lorde - A World Alone
+- **Favorite Food:** Chinese Food
 
 # Education
 
@@ -28,4 +30,8 @@
   - Kali Linux
   - Debian
   - Windows
-- **Tools:** **WSL2/Vim/Git/Bash-Shell**
+- **Tools:**
+  - *WSL2*
+  - *Vim*
+  - *Git*
+  - *Bash-Shell*
