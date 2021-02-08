@@ -22,6 +22,7 @@
 - **Programming Languages:**
   - *C*
   - *Python*
+  - *Vim Script*
 - **Operating Systems:**
   - Ubuntu
   - Kali Linux
