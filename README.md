@@ -4,9 +4,6 @@
 - **Favorite Hobby:** Programming
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
-- **Favorite Artist:** Lorde
-- **Favorite Song:** Lorde - Ribs
-- **Favorite Food:** Chinese Food
 
 # Education
 
