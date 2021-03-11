@@ -1,6 +1,7 @@
 # About me
 
 - **Age:** 16 years old
+- **Employed At:** Florida Design & Construction Services
 - **Favorite Hobby:** Programming
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
