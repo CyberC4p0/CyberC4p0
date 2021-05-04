@@ -11,13 +11,10 @@
 - **Future Career Path:** Software Engineer
 - **High School Diploma:** Penn Foster Highschool
 - **Certifications:**
-  - **Comptia A+:** *Currently Studying*
-  - **Comptia Network+:** *Pending...*
-  - **Comptia Security+:** *Pending...*
+  - **Google IT Support Specialist:** *Currently Studying...*
+  - **Google IT Automation with Python:** *Pending...*
+  - **Comptia A+:** *Pending...*
   - **Comptia Linux+:** *Pending...*
-  - **Comptia Server+:** *Pending...*
-  - **Comptia Cloud+:** *Pending...*
-
 
 # Experience
 
