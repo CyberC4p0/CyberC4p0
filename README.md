@@ -1,6 +1,6 @@
 # About me
 
-- **Age:** 16 years old
+- **Age:** 17 years old
 - **Favorite Hobby:** Programming
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
