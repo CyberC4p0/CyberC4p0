@@ -25,7 +25,7 @@
 
 - **Programming Languages:**
   - *C*
-  - Assembly
+  - *Assembly*
   - *Python*
 - **Operating Systems:**
   - Ubuntu
