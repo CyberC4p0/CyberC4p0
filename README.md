@@ -1,14 +1,14 @@
 # About me
 
 - **Age:** 17 years old
-- **Favorite Hobby:** Programming
+- **Favorite Hobby:** Hardware/Low-Level Programming
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
 
 # Education
 
 - **Current Career Path:** IT Support Specialist
-- **Future Career Path:** Software Engineer
+- **Future Career Path:** Hardware Engineer
 - **High School Diploma:** Penn Foster Highschool
 - **Certifications:**
   - **Google IT Support Specialist:** *Currently Studying...*
@@ -16,10 +16,16 @@
   - **Comptia A+:** *Pending...*
   - **Comptia Linux+:** *Pending...*
 
+- **Additional Courses:**
+  - **Nand2Tetris Part 1: Hardware:** *Currently Studying...*
+  - **Nand2Tetris Part 2: Software:** *Pending...*
+  - **Computer Architecture:** *Pending...*
+
 # Experience
 
 - **Programming Languages:**
   - *C*
+  - Assembly
   - *Python*
 - **Operating Systems:**
   - Ubuntu
