@@ -27,6 +27,7 @@
   - *C*
   - *Assembly*
   - *Python*
+  - *Vim Script*
 - **Operating Systems:**
   - Ubuntu
   - Windows
@@ -36,3 +37,6 @@
   - WSL2
   - Vim
   - Git & Version Control
+  - VSCode
+  - Notepad++
+  - Docker
