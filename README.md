@@ -11,9 +11,22 @@
 - **High School Diploma:** Penn Foster High School
 - **Certifications:**
   - **Google IT Support Specialist:** *Currently Studying...*
-  - **Google IT Automation with Python:** *Pending...*
-  - **Comptia A+:** *Pending...*
-  - **Comptia Linux+:** *Pending...*
+  - **CompTIA A+:** *Pending...*
+  - **CompTIA Network+:** *Pending...*
+  - **CompTIA Security+:** *Pending...*
+  - **CompTIA Linux+:** *Pending...*
+  - **CompTIA Server+:** *Pending...*
+  - **CompTIA CySA+:** *Pending...*
+  - **CompTIA CASP+:** *Pending...*
+  - **CompTIA PenTest+:** *Pending...*
+  - **eLearnSecurity eJPT:** *Pending...*
+  - **eLearnSecurity eCPPTv2:** *Pending...*
+  - **eLearnSecurity eCPTX:** *Pending...*
+  - **eLearnSecurity eCXD:** *Pending...*
+  - **eLearnSecurity eCTHPv2:** *Pending...*
+  - **eLearnSecurity eNDP:** *Pending...*
+  - **eLearnSecurity eCRE:** *Pending...*
+  - **eLearnSecurity eCIR:** *Pending...*
 
 - **Additional Courses:**
   - **Nand2Tetris Part 1: Hardware:** *Currently Studying...*
