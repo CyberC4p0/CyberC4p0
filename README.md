@@ -9,24 +9,29 @@
 
 # Education
 - **High School Diploma:** Penn Foster High School
-- **Certifications:**
-  - **Google IT Support Specialist:** *Currently Studying...*
-  - **CompTIA A+:** *Pending...*
-  - **CompTIA Network+:** *Pending...*
-  - **CompTIA Security+:** *Pending...*
-  - **CompTIA Linux+:** *Pending...*
-  - **CompTIA Server+:** *Pending...*
-  - **CompTIA CySA+:** *Pending...*
-  - **CompTIA CASP+:** *Pending...*
-  - **CompTIA PenTest+:** *Pending...*
-  - **eLearnSecurity eJPT:** *Pending...*
-  - **eLearnSecurity eCPPTv2:** *Pending...*
-  - **eLearnSecurity eCPTX:** *Pending...*
-  - **eLearnSecurity eCXD:** *Pending...*
-  - **eLearnSecurity eCTHPv2:** *Pending...*
-  - **eLearnSecurity eNDP:** *Pending...*
-  - **eLearnSecurity eCRE:** *Pending...*
-  - **eLearnSecurity eCIR:** *Pending...*
+
+# Certifications
+- **Completed:**
+  - **N/A**
+
+- **Pending:**
+  - **Google IT Support Specialist**
+  - **CompTIA A+**
+  - **CompTIA Network+**
+  - **CompTIA Security+**
+  - **CompTIA Linux+**
+  - **CompTIA Server+**
+  - **CompTIA CySA+**
+  - **CompTIA CASP+**
+  - **CompTIA PenTest+**
+  - **eLearnSecurity eJPT**
+  - **eLearnSecurity eCPPTv2**
+  - **eLearnSecurity eCPTX**
+  - **eLearnSecurity eCXD**
+  - **eLearnSecurity eCTHPv2**
+  - **eLearnSecurity eNDP**
+  - **eLearnSecurity eCRE**
+  - **eLearnSecurity eCIR**
 
 # Experience
 
