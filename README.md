@@ -2,7 +2,7 @@
 
 - **Age:** 17 years old
 - **Current Career Path:** IT Support Specialist
-- **Future Career Path:** ARM Developer/Contributer OR Embedded Software Engineer
+- **Future Career Path:** Kick-off of MegabIT Development.
 - **Favorite Hobby:** Playing Super Smash Bros. Ultimate (Banjo & Kazooie)
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
@@ -28,10 +28,6 @@
   - **eLearnSecurity eCRE:** *Pending...*
   - **eLearnSecurity eCIR:** *Pending...*
 
-- **Additional Courses:**
-  - **Nand2Tetris Part 1: Hardware:** *Currently Studying...*
-  - **Nand2Tetris Part 2: Software:** *Pending...*
-
 # Experience
 
 - **Programming Languages:**
@@ -44,7 +40,9 @@
   - Windows
   - Ubuntu
   - Kali Linux
+  - Parrot OS
   - Debian
+  - Arch Linux
 - **Tools:**
   - Vim
   - Git & Version Control
