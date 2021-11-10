@@ -8,38 +8,38 @@
 - **Music While Coding:** https://coderadio.freecodecamp.org/
 
 # Education
-- **High School Diploma:** Penn Foster High School
+- Penn Foster High School Diploma
 
 # Certifications
 - **Completed:**
-  - **N/A**
+  - N/A
 
 - **Pending:**
-  - **Google IT Support Specialist**
-  - **CompTIA A+**
-  - **CompTIA Network+**
-  - **CompTIA Security+**
-  - **CompTIA Linux+**
-  - **CompTIA Server+**
-  - **CompTIA CySA+**
-  - **CompTIA CASP+**
-  - **CompTIA PenTest+**
-  - **eLearnSecurity eJPT**
-  - **eLearnSecurity eCPPTv2**
-  - **eLearnSecurity eCPTX**
-  - **eLearnSecurity eCXD**
-  - **eLearnSecurity eCTHPv2**
-  - **eLearnSecurity eNDP**
-  - **eLearnSecurity eCRE**
-  - **eLearnSecurity eCIR**
+  - Google IT Support Specialist
+  - CompTIA A+
+  - CompTIA Network+
+  - CompTIA Security+
+  - CompTIA Linux+
+  - CompTIA Server+
+  - CompTIA CySA+
+  - CompTIA CASP+
+  - CompTIA PenTest+
+  - eLearnSecurity eJPT
+  - eLearnSecurity eCPPTv2
+  - eLearnSecurity eCPTX
+  - eLearnSecurity eCXD
+  - eLearnSecurity eCTHPv2
+  - eLearnSecurity eNDP
+  - eLearnSecurity eCRE
+  - eLearnSecurity eCIR
 
 # Experience
 
 - **Programming Languages:**
-  - *C*
-  - *Assembly*
-  - *Python*
-  - *Vim Script*
+  - C
+  - Assembly
+  - Python
+  - Vim Script
 - **Operating Systems:**
   - Raspberry Pi OS
   - Windows
