@@ -2,7 +2,7 @@
 
 - **Age:** 17 years old
 - **Current Career Path:** IT Support Specialist
-- **Future Career Path:** Kick-off of MegabIT Development.
+- **Future Career Path:** Cybersecurity
 - **Favorite Hobby:** Playing Super Smash Bros. Ultimate (Banjo & Kazooie)
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
