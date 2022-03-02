@@ -14,25 +14,6 @@
 - **Completed:**
   - N/A
 
-- **Pending:**
-  - Google IT Support Specialist
-  - CompTIA A+
-  - CompTIA Network+
-  - CompTIA Security+
-  - CompTIA Linux+
-  - CompTIA Server+
-  - CompTIA CySA+
-  - CompTIA CASP+
-  - CompTIA PenTest+
-  - eLearnSecurity eJPT
-  - eLearnSecurity eCPPTv2
-  - eLearnSecurity eCPTX
-  - eLearnSecurity eCXD
-  - eLearnSecurity eCTHPv2
-  - eLearnSecurity eNDP
-  - eLearnSecurity eCRE
-  - eLearnSecurity eCIR
-
 # Experience
 
 - **Programming Languages:**
