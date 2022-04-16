@@ -5,7 +5,7 @@
 - **Future Career Path:** Cybersecurity
 - **Favorite Hobby:** Playing Chess (Favorite Piece: Pawn)
 - **Favorite Programming Language:** *C*
-- **Favorite Song:** *Vacations by Young*
+- **Favorite Song:** *Young - Vacations*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
 
 # Education
