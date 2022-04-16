@@ -3,8 +3,9 @@
 - **Age:** 17 years old
 - **Current Career Path:** IT Support Specialist
 - **Future Career Path:** Cybersecurity
-- **Favorite Hobby:** Playing Super Smash Bros. Ultimate (Banjo & Kazooie)
+- **Favorite Hobby:** Playing Chess (Favorite Piece: Pawn)
 - **Favorite Programming Language:** *C*
+- **Favorite Song:** *Vacations by Young*
 - **Music While Coding:** https://coderadio.freecodecamp.org/
 
 # Education
