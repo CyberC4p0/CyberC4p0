@@ -3,41 +3,41 @@
 - **Age:** 18 years old
 - **Current Career Path:** IT Support Specialist
 - **Future Career Path:** Cybersecurity
-- **Favorite Hobby:** Playing Chess
+- **Favorite Hobby:** Gaming
 - **Favorite Programming Language:** *C*
-- **Music While Coding:** https://coderadio.freecodecamp.org/
+- **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
 
 ## Education
 - Penn Foster High School Diploma
 
 ## Certifications
-- **Completed:**
-  - Google IT Support Specialist
+- Google IT Support Specialist
 
 ## Experience
 
 - **Programming Languages:**
   - C
   - Bash & Powershell
-  - Assembly
   - Python
   - Vim Script
+  - Assembly
 
 - **Operating Systems:**
-  - Raspberry Pi OS
   - Windows
-  - Ubuntu
   - Kali Linux
+  - Ubuntu
   - Parrot OS
   - Debian
-  - Arch Linux
+  - Raspberry Pi OS
 
 - **Tools:**
-  - Vim
+  - Vim & GVim
+  - Cygwin x64
+  - Windows Terminal
   - Git & Version Control
-  - Visual Studio Code
   - Windows Subsystem for Linux 2
-  - Notepad++
+  - Draw.io
+  - Visual Studio Code
 
 ## Hardware/Tech
   - Raspberry Pi 0W
