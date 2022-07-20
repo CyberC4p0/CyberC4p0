@@ -18,6 +18,7 @@
 
 - **Programming Languages:**
   - C
+  - Bash & Powershell
   - Assembly
   - Python
   - Vim Script
