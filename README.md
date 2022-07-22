@@ -19,7 +19,6 @@
   - C
   - Bash & Powershell
   - Python
-  - Vim Script
   - Assembly
 
 - **Operating Systems:**
@@ -31,7 +30,7 @@
   - Raspberry Pi OS
 
 - **Tools:**
-  - Vim & GVim
+  - Vim/GVim & Vim Script
   - Cygwin x64
   - Windows Terminal
   - Git & Version Control
