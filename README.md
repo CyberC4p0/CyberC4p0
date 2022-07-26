@@ -7,6 +7,7 @@
 - **Future Career Path:** Cybersecurity/ARM Developer
 - **Favorite Hobby:** Gaming
 - **Favorite Programming Language:** *C*
+- **Favorite Text Editor:** *Vim*
 - **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
 
 ## Education
@@ -19,9 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hardware/Tech
-  - Raspberry Pi 0W
-  - Raspberry Pi 4
-  - Raspberry Pi Pico
-  - Panda Wireless PAU09
-  - HP Spectre x360 13.3"
+## Projects
