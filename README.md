@@ -1,8 +1,6 @@
 ## My Github Statistics
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About me
 - **Age:** 18 years old
 - **Current Career Path:** IT Support Specialist
@@ -20,27 +18,7 @@
 ## Experience
 
 - **Programming Languages:**
-  - C
-  - Bash & Powershell
-  - Python
-  - Assembly
-
-- **Operating Systems:**
-  - Windows
-  - Kali Linux
-  - Ubuntu
-  - Parrot OS
-  - Debian
-  - Raspberry Pi OS
-
-- **Tools:**
-  - Vim/GVim & Vim Script
-  - Cygwin x64
-  - Windows Terminal
-  - Git & Version Control
-  - Windows Subsystem for Linux 2
-  - Draw.io
-  - Visual Studio Code
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hardware/Tech
   - Raspberry Pi 0W
