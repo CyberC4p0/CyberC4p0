@@ -15,7 +15,7 @@
 ## Certifications
 - Google IT Support Specialist
 
-## Experience
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
