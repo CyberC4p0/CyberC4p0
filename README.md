@@ -4,7 +4,7 @@
 ## About me
 - **Age:** 18 years old
 - **Current Career Path:** IT Support Specialist
-- **Future Career Path:** Cybersecurity
+- **Future Career Path:** Cybersecurity/ARM Developer
 - **Favorite Hobby:** Gaming
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
