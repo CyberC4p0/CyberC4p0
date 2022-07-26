@@ -5,7 +5,7 @@
 - **Age:** 18 years old
 - **Current Career Path:** IT Support Specialist
 - **Future Career Path:** Cybersecurity
-- **Goal:** Contributing to ARM Development
+- **Goal:** Contributing to ARM
 - **Favorite Hobby:** Gaming
 - **Favorite Programming Language:** *C*
 - **Favorite Text Editor:** [Vim](https://www.vim.org/)
