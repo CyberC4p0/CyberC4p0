@@ -7,6 +7,7 @@
 - **Favorite Programming Language:** *C*
 - **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
 
+## Github Stats
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
