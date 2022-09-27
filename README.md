@@ -22,6 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## TryHackMe
-[![TryHackMe](https://tryhackme.com/badge/1087310)
+[![TryHackMe](<script src="https://tryhackme.com/badge/1087310"></script>)
 
 ## Best Projects
