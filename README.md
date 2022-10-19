@@ -5,7 +5,7 @@
 - **Age:** 18 years old
 - **Current Career Path:** Junior Software Engineer / System Administrator
 - **Future Career Path:** Cybersecurity
-- **Goal:** Contributing to ARM (e.g: Raspberry Pi)
+- **Goal:** Developing my own OS
 - **Favorite Hobby:** Gaming
 - **Favorite Programming Language:** *C*
 - **Favorite Text Editor:** *[Vim](https://www.vim.org/)*
