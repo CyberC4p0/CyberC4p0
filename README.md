@@ -3,7 +3,7 @@
 
 ## About me
 - **Age:** 18 years old
-- **Current Career Path:** IT Support Specialist
+- **Current Career Path:** Junior Software Engineer / System Administrator
 - **Future Career Path:** Cybersecurity
 - **Goal:** Contributing to ARM (e.g: Raspberry Pi)
 - **Favorite Hobby:** Gaming
