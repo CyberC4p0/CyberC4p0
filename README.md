@@ -15,7 +15,7 @@
 - Penn Foster High School Diploma
 
 ## Certifications
-- Google IT Support Specialist
+- [Google IT Support Specialist](https://www.credly.com/badges/a1174535-d006-4966-9d03-a9f779319c85/public_url)
 
 ## Programming Languages
 
