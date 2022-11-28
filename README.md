@@ -3,7 +3,7 @@
 
 ## About me
 - **Age:** 18 years old
-- **Current Career Path:** Junior Software Developer / System Administrator
+- **Current Career Path:** Junior Software Developer & System Administrator
 - **Future Career Path:** Cybersecurity
 - **Goal:** Developing my own OS
 - **Favorite Hobby:** Gaming (CS:GO)
