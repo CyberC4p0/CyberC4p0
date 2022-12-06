@@ -22,4 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Best Projects
-#### 1. [Wipe Quality Control](https://github.com/CyberC4p0/Wipe-Quality-Control)
+1. [Wipe Quality Control](https://github.com/CyberC4p0/Wipe-Quality-Control)
