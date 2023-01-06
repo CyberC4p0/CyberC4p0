@@ -17,7 +17,7 @@
 ## Certifications
 - [Google IT Support Specialist](https://www.credly.com/badges/a1174535-d006-4966-9d03-a9f779319c85/public_url)
 
-## Programming Languages
+## Most Used Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
