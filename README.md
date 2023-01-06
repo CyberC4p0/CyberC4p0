@@ -1,6 +1,8 @@
 ## My Github Statistics
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 - **Age:** 18 years old
 - **Current Career Path:** Junior Software Developer & System Administrator
@@ -16,10 +18,6 @@
 
 ## Certifications
 - [Google IT Support Specialist](https://www.credly.com/badges/a1174535-d006-4966-9d03-a9f779319c85/public_url)
-
-## Most Used Programming Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Favorite Programming Language
 
