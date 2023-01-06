@@ -21,5 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Favorite Programming Language
+
+<img alt="C-Lang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
+
 ## Best Projects
 1. [Wipe Quality Control](https://github.com/CyberC4p0/Wipe-Quality-Control)
