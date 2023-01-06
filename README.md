@@ -7,7 +7,7 @@
 - **Future Career Path:** Cybersecurity
 - **Goal:** Developing my own OS
 - **Favorite Hobby:** Gaming (CS:GO)
-- **Favorite Programming Language:** <img alt="C-Lang" width="20px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
+- **Favorite Programming Language:** <img alt="C-Lang" width="10px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 - **Favorite Text Editor:** *[Vim](https://www.vim.org/)*
 - **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
 
