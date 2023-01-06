@@ -19,7 +19,7 @@
 ## Certifications
 - [Google IT Support Specialist](https://www.credly.com/badges/a1174535-d006-4966-9d03-a9f779319c85/public_url)
 
-## Favorite Programming Language
+## Favorite Programming Languages
 
 <img alt="C-Lang" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 
