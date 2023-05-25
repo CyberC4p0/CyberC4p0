@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberC4p0&count_private=true&show_icons=true&theme=gruvbox&exclude_repo=dotfiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-- **Age:** 18 years old
+- **Age:** 19 years old
 - **Current Career Path:** Junior Software Developer & System Administrator
 - **Future Career Path:** Cybersecurity
 - **Goal:** Developing my own OS
