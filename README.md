@@ -5,13 +5,11 @@
 
 ## About me
 - **Age:** 19 years old
-- **Current Career Path:** Junior Software Developer & System Administrator
-- **Future Career Path:** Cybersecurity
-- **Goal:** Developing my own OS
-- **Favorite Hobby:** Playing Chess
+- **Future Career Path:** Penetration Tester / SOC Analyst
+- **Goal:** Obtaining the OSCP certification
+- **Favorite Hobby:** Smash Bros. Ultimate (Banjo & Kazooie)
 - **Favorite Programming Language:** *C*
 - **Favorite Text Editor:** *[Vim](https://www.vim.org/)*
-- **Music While Coding:** [Lofi Girl](https://music.apple.com/us/playlist/lofi-hip-hop-music-beats-to-relax-study-to/pl.bf7a3cbca49644d8a33f09c1285aef5c)
 
 ## Education
 - Penn Foster High School Diploma
