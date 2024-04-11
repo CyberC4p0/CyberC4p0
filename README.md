@@ -6,8 +6,8 @@
 ## About me
 - **Age:** 19 years old
 - **Future Career Path:** Penetration Tester / SOC Analyst
-- **Goal:** Obtaining the OSCP certification
-- **Favorite Hobby:** Smash Bros. Ultimate (Banjo & Kazooie)
+- **Goal:** Obtaining the PEN-200 (OSCP) certification - ![](https://geps.dev/progress/27)
+- **Favorite Hobby:** Super Smash Bros. Ultimate (Banjo & Kazooie)
 - **Favorite Programming Language:** *C*
 - **Favorite Text Editor:** *[Vim](https://www.vim.org/)*
 
@@ -29,7 +29,3 @@
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <img alt="Linux" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 <img alt="Ubuntu" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
-
-
-## Best Projects
-1. [Wipe Quality Control](https://github.com/CyberC4p0/Wipe-Quality-Control)
