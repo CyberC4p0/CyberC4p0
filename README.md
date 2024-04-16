@@ -6,7 +6,7 @@
 ## About me
 - **Age:** 19 years old
 - **Future Career Path:** Penetration Tester / SOC Analyst
-- **Goal:** Obtaining the PEN-200 (OSCP) certification - ![](https://geps.dev/progress/29)
+- **Goal:** Obtaining the PEN-200 (OSCP) certification - ![](https://geps.dev/progress/32)
 - **Favorite Hobby:** Super Smash Bros. Ultimate (Banjo & Kazooie)
 - **Favorite Programming Language:** *C*
 - **Favorite Text Editor:** *[Vim](https://www.vim.org/)*
